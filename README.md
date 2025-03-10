@@ -69,6 +69,23 @@ pre=scaler.inverse_transform(prediction)
 print(f"Predicted value: {pre}")
 ```
 ## Output:
+
+## Dataset
+![image](https://github.com/user-attachments/assets/e4b27c9a-e4b5-4670-97c8-6f7c864af697)
+
+## X value
+![image](https://github.com/user-attachments/assets/d0863caa-56a5-41ee-bd23-92306f5e1a9c)
+
+## Y Value
+![image](https://github.com/user-attachments/assets/4d9e0090-7260-40d8-a1ab-3df024bdbe64)
+
+## X1_scaled
+![image](https://github.com/user-attachments/assets/fd76ee14-dfe9-4f41-b313-593a6d1bdca3)
+
+## Y1_scaled
+![image](https://github.com/user-attachments/assets/39e9e15e-d7cb-4cbe-9727-3569691eaafb)
+
+## Predicted Value
 ![outpu_ml](https://github.com/user-attachments/assets/a9c1b1ea-7ed1-4e55-af8f-ccbd3f587b21)
 
 
