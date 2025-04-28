@@ -48,6 +48,8 @@ RegisterNumber:  212224240004
 */
 ```
 ```py
+#Developed by : Abishek Priyan M
+#Reg.no: 212224240004
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
